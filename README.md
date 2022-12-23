@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Anwar Gad
 - 👀 I’m interested in Web Development and android development
-- 🌱 I’m currently learning WEb development and AI
+- 🌱 I’m currently learning Web development and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 ahmed.anwar2003@gmail.com
