@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Anwar Gad
-- 👀 I’m interested in Web Development and Android development
-- 🌱 I’m currently learning Web development and AI
+- 👀 I’m a rising software engineer, rising Embedded systems developer.
+- 🌱 I’m currently learning Embeded systems ,AI, Flutter, and Reactjs
 - 📫 How to reach me:
 ahmed.anwar2003@gmail.com
 Whatsapp:+201554312767
