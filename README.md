@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ahmed Anwar and I'm a CSE undergraduate at E-JUST, from Egypt, Alexandria</h2>
+<h2 align="left">Hi 👋! I'm Ahmed Anwar and I'm a CSE undergraduate at E-JUST, from Egypt, Alexandria</h2>
 
 ###
 <div align="center">
