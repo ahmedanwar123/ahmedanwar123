@@ -1,12 +1,17 @@
 <h2 align="left">Hi 👋! I'm Ahmed Anwar, a CSE undergraduate at E-JUST, from Egypt, Alexandria</h2>
 
 ###
-<div align="center">
-  <a href="https://github.com/ahmedanwar123">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&show_icons=true&theme=radical" alt="Ahmed Anwar's GitHub stats" />
-  </a>
-</div>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&show_icons=true" />
+</picture>
 ###
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Always+learning+new+things;Trying+to+dig+into+quantum+computing)](https://git.io/typing-svg)
