@@ -1,7 +1,7 @@
 ### Hi there 👋 🧠
 - 👋 Hey there! I'm [Ahmed Anwar]([https://www.linkedin.com/in/omar-abdelgawad/](https://www.linkedin.com/in/ahmed-gad-5102181a5/))
 - 👀 I am interested in Machine learning, and Computer Vision.
-- 🌱 I’m currently exploring GANs, Reverse engineering, and quantum computing.
+- 🌱 I’m currently exploring GANs, and quantum computing.
 
 ###
 <div align="center">
