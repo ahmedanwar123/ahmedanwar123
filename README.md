@@ -1,17 +1,14 @@
 <h2 align="left">Hi 👋! I'm Ahmed Anwar, a CSE undergraduate at E-JUST, from Egypt, Alexandria</h2>
 
 ###
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&show_icons=true" />
-</picture>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar-abdelgawad&theme=transparent"/>
+  </a>
+</div>
+
+[![readme-stats](https://github-readme-stats.vercel.app/api?username=ahmedanwar123&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedanwar123&theme=transparent&hide=Jupyter%20%Notebook&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
