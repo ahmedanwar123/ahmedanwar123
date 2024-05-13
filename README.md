@@ -12,6 +12,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&show_icons=true" />
 </picture>
+
 ###
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Always+learning+new+things;Trying+to+dig+into+quantum+computing)](https://git.io/typing-svg)
