@@ -1,7 +1,7 @@
 ### Hi there 👋 🧠
 - 👋 Hey there! I'm [Ahmed Anwar]([https://www.linkedin.com/in/omar-abdelgawad/](https://www.linkedin.com/in/ahmed-gad-5102181a5/))
 - 👀 I am interested in Machine learning, and Computer Vision.
-- 🌱 I’m currently exploring GANs, and quantum computing.
+- 🌱 I’m currently exploring GANs, and QML.
 
 ###
 <div align="center">
@@ -15,7 +15,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Always+learning+new+things;Trying+to+dig+into+quantum+computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Always+learning+new+things;Trying+to+dig+into+QML)](https://git.io/typing-svg)
 ###
 
 <div align="left">
