@@ -1,6 +1,6 @@
 ### Hi there 👋 🧠
 - 👋 Hey there! I'm [Ahmed Anwar]([https://www.linkedin.com/in/omar-abdelgawad/](https://www.linkedin.com/in/ahmed-gad-5102181a5/))
-- 👀 I am interested in Machine learning, and Machine Vision.
+- 👀 I am interested in Machine learning, and Robotics.
 - 🌱 I’m currently exploring NLP, GANs, and QML.
 
 ###
