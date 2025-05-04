@@ -18,8 +18,15 @@
   </a>
 </div>
 
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedanwar123&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedanwar123&theme=transparent&hide=Jupyter%20Notebook&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&theme=transparent&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedanwar123&theme=transparent&hide=Jupyter%20Notebook&langs_count=8&layout=compact"/>
+  </a>
+</div>
+
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning+/+Software+Engineer;Always+learning+new+things;Trying+to+dig+into+QML)](https://git.io/typing-svg)
