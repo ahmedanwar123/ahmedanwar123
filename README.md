@@ -6,7 +6,7 @@
 
 ---
 
-- 👋 Hey there! I'm [Ahmed Anwar](https://www.linkedin.com/in/ahmed-gad-5102181a5/)
+- 👋 Hey there! I'm [Ahmed Anwar](https://www.linkedin.com/in/ahmed-anwar-gad)
 - 🧠 Always learning and experimenting with new technologies
 - 💻 Check out my GitHub projects for AI, robotics, and embedded systems
 
