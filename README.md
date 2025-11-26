@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 🎓 Computer Engineering student @ E-JUST  
-👀 Passionate about Machine Learning and Robotics  
-🌱 Currently exploring NLP, GANs, and Quantum Machine Learning (QML)  
+👀 Passionate about AI and Robotics  
 
 ---
 
