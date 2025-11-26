@@ -1,13 +1,8 @@
 ### Hi there 👋
-
+I'm [Ahmed Anwar](https://www.linkedin.com/in/ahmed-anwar-gad)
 🎓 Computer Engineering student @ E-JUST  
 👀 Passionate about AI and Robotics  
-
----
-
-- 👋 Hey there! I'm [Ahmed Anwar](https://www.linkedin.com/in/ahmed-anwar-gad)
-- 🧠 Always learning and experimenting with new technologies
-- 💻 Check out my GitHub projects for AI, robotics, and embedded systems
+- 💻 Check out my GitHub projects for AI, and robotics
 
 ---
 
