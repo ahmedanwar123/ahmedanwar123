@@ -20,10 +20,6 @@
   </a>
 </div>
 
-
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning+/+Software+Engineer;Always+learning+new+things;Trying+to+dig+into+QML)](https://git.io/typing-svg)
-
 ---
 
 ### 🛠️ Tech Stack
