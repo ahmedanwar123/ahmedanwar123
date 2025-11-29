@@ -10,6 +10,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xanwar&theme=transparent"/>
   </a>
 </div>
+---
 
 ### 🛠️ Tech Stack
 
@@ -35,8 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo" />
 </div>
 
 #### Tools & Platforms
