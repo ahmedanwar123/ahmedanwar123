@@ -7,16 +7,16 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedanwar123&theme=transparent"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xanwar&theme=transparent"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedanwar123&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xanwar&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedanwar123&theme=transparent&hide=Jupyter%20Notebook&langs_count=8&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xanwar&theme=transparent&hide=Jupyter%20Notebook&langs_count=8&layout=compact"/>
   </a>
 </div>
 
