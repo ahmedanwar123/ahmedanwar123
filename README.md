@@ -11,15 +11,14 @@
   </a>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xanwar&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xanwar&theme=transparent&hide=Jupyter%20Notebook&langs_count=8&layout=compact"/>
   </a>
-</div> -->
-
+</div>
 ---
 
 ### 🛠️ Tech Stack
